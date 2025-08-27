@@ -1,0 +1,23 @@
+[
+    {
+        "route_id": 1,
+        "source": "CityA",
+        "destination": "CityB",
+        "seats": 50,
+        "fare": 20
+    },
+    {
+        "route_id": 2,
+        "source": "CityB",
+        "destination": "CityC",
+        "seats": 36,
+        "fare": 25
+    },
+    {
+        "route_id": 3,
+        "source": "CityA",
+        "destination": "CityC",
+        "seats": 30,
+        "fare": 30
+    }
+]
